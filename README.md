@@ -1,42 +1,55 @@
-# CodeAlpha-ImageGallery
-Interactive and responsive image gallery showcasing stunning visuals across multiple categories
-📸 Interactive Image Gallery
-Welcome to the Interactive Image Gallery — a sleek, responsive web gallery where users can browse through a curated collection of beautiful images across various categories like Nature, Architecture, Food, Travel, People, and Animals.
+# 🖼️ Interactive Image Gallery
 
-🌟 Features
-🖼️ Dynamic image categories (All, Nature, Architecture, etc.)
+A modern, responsive, and interactive image gallery built using **HTML**, **CSS**, and **JavaScript**. The gallery features category-based filtering, pagination, hover effects, and a dark-themed elegant design.
 
-⏮️⏭️ Navigation buttons for Previous/Next browsing
+![Gallery Preview - Page 1]![image](https://github.com/user-attachments/assets/38c6f657-f908-4e45-9952-d9ab59e67c06)
 
-✨ Smooth transitions & hover effects
+![Gallery Preview - Page 2]![image](https://github.com/user-attachments/assets/007c6bee-dfe2-4758-b58a-5d2af86d0274)
 
-🧭 Category filtering for a focused experience
 
-📱 Responsive design for all screen sizes
+---
 
-🔍 Image viewer with alt descriptions for accessibility
+## ✨ Features
 
-🖼️ Sample Categories & Images
-Nature – Mountain landscape at sunset, Cliff overlooking the ocean
+- 📸 Showcases a variety of images across multiple categories:
+  - Nature, Architecture, Food, Travel, People, and Animals
+- 🧭 Intuitive navigation with **Previous/Next** buttons
+- 🎨 Responsive layout for all screen sizes
+- 🌙 Dark mode UI with smooth hover transitions
+- 🗂️ Category-based filtering using dynamic buttons
 
-People – A beautiful girl’s face
+---
 
-Travel – Tropical beach with crystal clear water
+## 🚀 Tech Stack
 
-Architecture – Urban skyline, Ancient stone bridge
+- **HTML5** – Structure
+- **CSS3** – Layout and styling
+- **JavaScript** – Logic for filtering, pagination, and dynamic UI
 
-Food – Delicious pasta, Colorful fruit platter
+---
 
-🌈 "Explore Beauty in Every Frame" – Dive into a visually rich experience.
 
-🚀 Getting Started
-To view the gallery locally:
+---
 
-Clone the repo:
+## 🖼️ Gallery Highlights
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/CodeAlpha_ImageGallery.git
-Open index.html in your browser.
+- Scenic landscapes and mountains
+- Urban architecture and ancient bridges
+- Delicious food plates and colorful fruit platters
+- Beautiful portraits and travel shots
+- Adorable animals and natural wildlife
 
+---
+
+## 📌 Live Demo
+
+🔗 [View Live on GitHub Pages](https://your-username.github.io/CodeAlpha_ImageGallery)
+
+---
+
+## 💡 How to Use
+
+1. **Clone the repository:**
+```bash
+git clone https://github.com/Tejashwini-SB/CodeAlpha-ImageGallery.git
+cd CodeAlpha_ImageGallery
