@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Image Gallery</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Interactive Image Gallery</h1>
+            <p>Browse through our collection of beautiful images</p>
+        </header>
+
+
+        <!-- Category Filter -->
+        <div class="category-filter">
+            <button class="filter-btn active" data-category="all">All</button>
+            <button class="filter-btn" data-category="nature">Nature</button>
+            <button class="filter-btn" data-category="architecture">Architecture</button>
+            <button class="filter-btn" data-category="food">Food</button>
+            <button class="filter-btn" data-category="travel">Travel</button>
+            <button class="filter-btn" data-category="people">People</button>
+            <button class="filter-btn" data-category="animal">Animal</button>
+        </div>
+
+        <!-- Gallery Navigation -->
+        <div class="gallery-nav">
+            <button class="nav-btn" id="prev-btn" disabled>Previous</button>
+            <button class="nav-btn" id="next-btn">Next</button>
+        </div>
+
+        <!-- Image Gallery -->
+        <div class="gallery" id="gallery">
+            <!-- Images will be loaded here by JavaScript -->
+        </div>
+
+        <!-- Lightbox -->
+        <div class="lightbox" id="lightbox">
+            <button class="lightbox-close" id="lightbox-close">&times;</button>
+            <div class="lightbox-content">
+                <img class="lightbox-img" id="lightbox-img" src="" alt="">
+                <p class="lightbox-caption" id="lightbox-caption"></p>
+            </div>
+            <div class="lightbox-nav">
+                <button class="lightbox-btn" id="lightbox-prev">&lt;</button>
+                <button class="lightbox-btn" id="lightbox-next">&gt;</button>
+            </div>
+        </div>
+    </div>
+    <footer class="footer">
+            <p>Explore Beauty in Every Frame</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
