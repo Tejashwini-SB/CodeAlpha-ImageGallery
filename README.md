@@ -43,7 +43,7 @@ A modern, responsive, and interactive image gallery built using **HTML**, **CSS*
 
 ## 📌 Live Demo
 
-🔗 [View Live on GitHub Pages](https://your-username.github.io/CodeAlpha_ImageGallery)
+🔗 [View Live on GitHub Pages](https://tejashwini-sb.github.io/CodeAlpha-ImageGallery/)
 
 ---
 
